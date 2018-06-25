@@ -39,4 +39,6 @@ And this tutorial will guide you steps to setup the tensorflow:<br>
 5. `pip install tensorflow-1.8.0-cp35-none-linux_armv7l.whl`
 6. `git clone https://github.com/tensorflow/models.git`
 7. `cd ~/tensorflow/models/tutorials/image/imagenet`
-8. `python classify_image.py --image_file ~/pictures/A.jpg`
+8. `python classify_image.py --image_file ~/pictures/A.jpg`<br><br>
+### Video demo
+[Video Demo](https://youtu.be/pNEht-3bFzw)
